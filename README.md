@@ -1,4 +1,4 @@
-# questify
+# Questify
 Questionaire Engine
 
  * Specify questions to be answered ina database
